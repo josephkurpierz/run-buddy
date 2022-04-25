@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 body{
     font-family: Helvetica, Arial, sans-serif;
@@ -12,10 +13,12 @@ header{
 }
 header h1{
     font-weight: bold;
-    font-size: 36px;
+    font-size: 35px;
     color: #fce138;
     margin: 0;
     display: inline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    
 }
 header a{
     color: #fce138;
@@ -32,4 +35,23 @@ header nav ul li a{
     margin: 0 30px;
     font-weight: lighter;
     font-size: 22px;
+}
+footer{
+    background-color: #fce138;
+    width: 100%;
+    padding: 40px 35px;
+}
+footer h2{
+    color: #024e76;
+    display: inline;
+    font-size: 30px;
+    margin: 0;
+}
+footer div{
+    float: right;
+    line-height: 1.5;
+    text-align: right;
+}
+footer a{
+    color: #024e76;
 }
