@@ -56,9 +56,7 @@ footer a{
     color: #024e76;
 }
 section{
-    padding: 60px;
-    border: 10px solid #b28239;
-    
+    padding: 60px;    
 }
 .hero{
    background-image: url("../images/hero-bg.jpg"); 
