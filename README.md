@@ -14,3 +14,4 @@ https://josephkurpierz.github.io/run-buddy/
 Made with ❤️ by Joseph Kurpierz
 
 
+### ©️2019 Run Buddy, Inc 
